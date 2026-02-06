@@ -1,6 +1,6 @@
 # Altium Designer Open Source Libraries 🛠️
 
-![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
 
 A collection of open-source libraries for **Altium Designer**, shared to serve the tech community and electronics developers. This repository contains Schematic Symbols and PCB Footprints for a wide range of common electronic components.
 
@@ -62,7 +62,7 @@ Developed by Abdelrahman Hassan ❤️
 
 # Altium Designer Open Source Libraries 🛠️
 
-![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
 
 مجموعة مكتبات مفتوحة المصدر لبرنامج **Altium Designer**، تم تصميمها ومشاركتها لخدمة المجتمع التقني ومطوري الإلكترونيات.
 
